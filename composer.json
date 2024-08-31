@@ -1,13 +1,13 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "sunny/techvision",
     "autoload": {
         "psr-4": {
-            "Priyansh\\Itcompany\\": "src/"
+            "Sunny\\TechVision\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "TechVision"
         }
     ],
     "require": {
