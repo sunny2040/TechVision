@@ -1355,3 +1355,9 @@ body{
             width: 100%;
         }
 }
+.clients-carousel img {
+    width: 150px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    object-fit: contain; /* Maintain aspect ratio while fitting within the dimensions */
+    margin: 0 auto; /* Center the images */
+}
